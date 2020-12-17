@@ -26,7 +26,7 @@ Each assignment is published similarly to labs: the problem statements are given
 
 Your answers are submitted by pushing your code on GitLab, just like the labs. After you submit your solution, you will receive a preliminary grade for that question. This information will be available in the GitLab CI. The tests executed on the CI are identical to those you can run locally. For detailed information, refer to labs submission instructions: https://gitlab.epfl.ch/lamp/cs210/-/blob/master/labs/grading-and-submission.md#committing-and-pushing-your-code.
 
-You are allowed to push multiple times for the same question (only the last commit will be considered). Furthermore, you are allowed to go back to your previous questions.
+You are allowed to push multiple times for the same question (only the last commit will be considered). Furthermore, you are allowed to go back to your previous questions and sumbit your answers out of order. We still recommend you to solve the exam in order, to avoid negative points (see examples in the last section).
 
 ## How to run tests
 
@@ -54,7 +54,7 @@ Here are some examples of how we compute grades given the following question ord
 E1, E2, E3, E4, E5, E6, E7, E8
 
 **Example 1**:
-You successfully solved questions E1 and E2, you partially solved or skipped question E3, and you successfully solved questions E4 and E5. You will get `10+10-3+10+10 =` 37 points.
+You successfully solved questions E1 and E2, you partially solved or skipped question E3, and you successfully solved questions E4 and E5. You will get `10+10-3+10+10 = 37` points.
 
 **Example 2**:
 You skipped the first five questions and successfully solved questions E6 and E7. You will get `-3-3-3-3-3+10+10 = 5` points.

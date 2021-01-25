@@ -1,6 +1,6 @@
-# CS-210: Exam Dry Run
+# CS-210: Final Exam
 
-Friday, 18 December 2020, 10:15 - 12:00
+Tuesday, 26 January 2021, 9:15 - 11:15
 
 This exam is open book in the sense that you are allowed to consult the PDF slides for all lectures in this course.
 
@@ -20,7 +20,7 @@ Assignments will be available online at the start of the exam. Please clone the 
 git clone https://github.com/lampepfl/cs210-2020-exam.git
 ```
 
-Each assignment is published similarly to labs: the problem statements are given as markdown files in the following directory: https://github.com/lampepfl/cs210-2020-exam/tree/main/dryrun; the code skeleton for each problem is available in a separate branch of your private GitLab repository. Each student will receive a list of links to their questions before the exam by email.
+Each assignment is published similarly to labs: the problem statements are given as markdown files in the following directory: https://github.com/lampepfl/cs210-2020-exam/tree/main/exam; the code skeleton for each problem is available in a separate branch of your private GitLab repository. Each student will receive a list of links to their questions before the exam by email.
 
 ## How to submit questions
 
@@ -62,4 +62,4 @@ You skipped the first five questions and successfully solved questions E6 and E7
 **Example 3**:
 You skipped the first seven questions and successfully solved question E8. You will get `-3-3-3-3-3-3-3+10 = -11` points, which will be rounded up to zero.
 
-Given the exam format, those points will then be converted to traditional grades depending on the overall exam performance. Our aim is that a student who mastered the material can solve approximately 5 questions in this time period (taking into account small variations in question difficulty) and obtain a maximum grade, if they did not skip any questions. This estimate is provided only to help your time planning.
+Given the exam format, those points will then be converted to traditional grades depending on the overall exam performance. Our aim is that a student who mastered the material can solve approximately 7 questions in this time period (taking into account small variations in question difficulty) and obtain a maximum grade, if they did not skip any questions. This estimate is provided only to help your time planning.

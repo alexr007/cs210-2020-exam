@@ -51,15 +51,15 @@ Each question you solve correctly gives you **10** points. A question is solved 
 
 Here are some examples of how we compute grades given the following question order:
 
-E1, E2, E3, E4, E5, E6, E7, E8
+Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10
 
 **Example 1**:
-You successfully solved questions E1 and E2, you partially solved or skipped question E3, and you successfully solved questions E4 and E5. You will get `10+10-3+10+10 = 37` points.
+You successfully solved questions Q1 and Q2, you partially solved or skipped question Q3, and you successfully solved questions Q4 and Q5. You will get `10+10-3+10+10 = 37` points.
 
 **Example 2**:
-You skipped the first five questions and successfully solved questions E6 and E7. You will get `-3-3-3-3-3+10+10 = 5` points.
+You skipped the first five questions and successfully solved questions Q6 and Q7. You will get `-3-3-3-3-3+10+10 = 5` points.
 
 **Example 3**:
-You skipped the first seven questions and successfully solved question E8. You will get `-3-3-3-3-3-3-3+10 = -11` points, which will be rounded up to zero.
+You skipped the first seven questions and successfully solved question Q8. You will get `-3-3-3-3-3-3-3+10 = -11` points, which will be rounded up to zero.
 
 Given the exam format, those points will then be converted to traditional grades depending on the overall exam performance. Our aim is that a student who mastered the material can solve approximately 7 questions in this time period (taking into account small variations in question difficulty) and obtain a maximum grade, if they did not skip any questions. This estimate is provided only to help your time planning.

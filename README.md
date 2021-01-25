@@ -1,6 +1,6 @@
 # CS-210: Final Exam
 
-Tuesday, 26 January 2021, 9:15 - 11:15
+Tuesday, 26 January 2021, 8:15 - 11:15
 
 This exam is open book in the sense that you are allowed to consult the PDF slides for all lectures in this course.
 
